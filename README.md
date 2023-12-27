@@ -1,3 +1,9 @@
+# Archived
+
+This repo has been archived and set to read only.
+The license has been changed to Public Domain (unlicense).
+This repo can be used as an example for other people's projects.
+
 # weather.pl
 
 A simple weather CGI script in Perl
